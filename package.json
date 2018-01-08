@@ -6,15 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "aws",
-    "aws",
-    "api-getway"
-  ],
+  "keywords": ["aws", "aws", "api-getway"],
   "author": "viru rathore <virurathore.ta@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "amazon-cognito-identity-js": "^1.29.0",
     "aws-sdk": "^2.177.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virurathore/aws-lib.git"
   }
 }
