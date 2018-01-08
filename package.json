@@ -1,12 +1,16 @@
 {
   "name": "svrathore-aws-lib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is aws lib for accessing aws resources",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["aws", "aws", "api-getway"],
+  "keywords": [
+    "aws",
+    "aws",
+    "api-getway"
+  ],
   "author": "viru rathore <virurathore.ta@gmail.com>",
   "license": "MIT",
   "dependencies": {
