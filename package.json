@@ -1,5 +1,5 @@
 {
-  "name": "svrathore-aws-lib",
+  "name": "@svrathore/aws-lib",
   "version": "0.0.2",
   "description": "This is aws lib for accessing aws resources",
   "main": "index.js",
